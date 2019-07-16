@@ -1,0 +1,15 @@
+/* 
+  LocalizableEnglish.strings
+  PestControl
+
+  Created by Daniel Leal on 11/06/19.
+  Copyright © 2019 Razeware LLC. All rights reserved.
+*/
+
+"texto1" = "Game tutorial";
+"texto2" = "This is the controller of the player, an analogic stick, used it for movimentation of the player";
+"texto3" = "This is the attack button, click on it to perform an attack action";
+"texto4" = "This is your character's health, it gets lower when he gets hit by the enemies";
+"texto5" = "This is your son's health, it gets lower when he gets too much time away from the player";
+"texto6" = "This is a campfire, there are 4 of them in the map, swipe on it to increase fire for better view and to put away enemies";
+"texto7" = "You are good to go, good luck";

@@ -1,0 +1,15 @@
+
+/* Class = "UIViewController"; title = "Menu"; ObjectID = "5fM-cC-D6f"; */
+"5fM-cC-D6f.title" = "Menu";
+
+/* Class = "UILabel"; text = "Music"; ObjectID = "JGv-K8-EYc"; */
+"JGv-K8-EYc.text" = "Music";
+
+/* Class = "UIViewController"; title = "Game"; ObjectID = "s0I-ac-uRv"; */
+"s0I-ac-uRv.title" = "Game";
+
+/* Class = "UILabel"; text = "Sounds"; ObjectID = "uBU-KH-4CS"; */
+"uBU-KH-4CS.text" = "Sounds";
+
+/* Class = "UILabel"; text = "Brightness"; ObjectID = "upV-lM-ata"; */
+"upV-lM-ata.text" = "Brightness";

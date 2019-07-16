@@ -1,0 +1,31 @@
+
+/* Class = "UIButton"; normalTitle = "Settings"; ObjectID = "46D-oO-WET"; */
+"46D-oO-WET.normalTitle" = "Ajustes";
+
+/* Class = "UIViewController"; title = "Menu"; ObjectID = "5fM-cC-D6f"; */
+"5fM-cC-D6f.title" = "Menu";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "Clh-Dl-XB0"; */
+"Clh-Dl-XB0.text" = "Label";
+
+/* Class = "UILabel"; text = "Music"; ObjectID = "JGv-K8-EYc"; */
+"JGv-K8-EYc.text" = "Musica";
+
+/* Class = "UIButton"; normalTitle = "Score"; ObjectID = "lJt-Us-n6L"; */
+"lJt-Us-n6L.normalTitle" = "Ranking";
+
+/* Class = "UILabel"; text = "Score"; ObjectID = "nft-uL-XC7"; */
+"nft-uL-XC7.text" = "Pontuação";
+
+/* Class = "UIViewController"; title = "Game"; ObjectID = "s0I-ac-uRv"; */
+"s0I-ac-uRv.title" = "Jogo";
+
+/* Class = "UILabel"; text = "Sounds"; ObjectID = "uBU-KH-4CS"; */
+"uBU-KH-4CS.text" = "Sons";
+
+
+/* Class = "UIButton"; normalTitle = "Play"; ObjectID = "vcd-QD-VUS"; */
+"vcd-QD-VUS.normalTitle" = "Jogar";
+
+/* Class = "UILabel"; text = "Settings"; ObjectID = "yO3-u3-ZY8"; */
+"yO3-u3-ZY8.text" = "Ajustes";

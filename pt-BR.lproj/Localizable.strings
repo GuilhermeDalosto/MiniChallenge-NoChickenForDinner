@@ -1,0 +1,20 @@
+/*
+ Localizable.string.strings
+ PestControl
+ 
+ Created by Daniel Leal on 11/06/19.
+ Copyright © 2019 Razeware LLC. All rights reserved.
+ */
+
+"filho" = "Filho";
+"inimigo" = "Inimigo";
+"fogueira" = "Fogueira";
+"alertArrow" = "Cuidado";
+"trap" = "Armadilha";
+"dicaAlerta" = "Siga a dica";
+"dicaCombo" = "Use o combo";
+
+"continue" = "Clique na tela pra continuar";
+
+"notificacao" = "Ei, faz tempo que você não joga, por que não nos faz uma visita?";
+

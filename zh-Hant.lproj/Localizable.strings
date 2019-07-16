@@ -1,0 +1,19 @@
+/*
+ Localizable.strings
+ PestControl
+ 
+ Created by Daniel Leal on 11/06/19.
+ Copyright © 2019 Razeware LLC. All rights reserved.
+ */
+
+"filho" = "他的";
+"inimigo" = "敵人";
+"fogueira" = "營火";
+"alertArrow" = "注意";
+"trap" = "陷阱";
+"dicaAlerta" = "按照提示";
+"dicaCombo" = "使用組合";
+
+"continue" = "單擊屏幕繼續";
+
+"notificacao" = "嘿，你玩了已經有一段時間了，你為什麼不拜訪我們？";

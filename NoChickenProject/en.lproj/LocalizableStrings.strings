@@ -1,0 +1,15 @@
+/* 
+  LocalizableStrings.strings
+  PestControl
+
+  Created by Daniel Leal on 11/06/19.
+  Copyright © 2019 Razeware LLC. All rights reserved.
+*/
+
+"texto1" = "Tutorial de jogo";
+"texto2" = "Esse é o controle de movimentação do jogador";
+"texto3" = "Esse é o botão de ataque, clique nele para realizar uma ação de ataque!";
+"texto4" = "Essa é a vida do personagem, ela diminui quando é atacada pelos inimigos";
+"texto5" = "Essa é a vida do seu filho, ela diminui sempre que ele fica um tempo longe de você";
+"texto6" = "Esta é uma fogueira, existem 4 delas espalhadas pelo mapa, acenda-as para ver melhor e afastar os inimigos";
+"texto7" = "Você está pronto para ir, boa sorte!";
